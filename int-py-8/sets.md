@@ -82,10 +82,10 @@ print(set_a) # return with only unique values
 
 ---
 
-## Converting Tuple to Set
+## Converting to Set
 ```python
 set1 = set("Devincept") # convert string to set
-set2 = set((1,2,3,4,5)) # convert tuple to string
+set2 = set((1,2,3,4,5)) # convert tuple to set
 day = {1:'Monday', 2:'Tuesday'}
 set3 = set(day) # convert dictionary to set
 ```
