@@ -82,7 +82,7 @@ print(set_a) # return with only unique values
 
 ---
 
-## Converting to Set
+## Converting Tuple to Set
 ```python
 set1 = set("Devincept") # convert string to set
 set2 = set((1,2,3,4,5)) # convert tuple to string
